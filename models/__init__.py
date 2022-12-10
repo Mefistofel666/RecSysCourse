@@ -1,1 +1,3 @@
 from models.popular import PopularModel
+from models.popular_covered_by_n import PopularCoveredByNPercent
+from models.popular_in_user_category import PopularInUserCategory
