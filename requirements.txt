@@ -3,3 +3,5 @@ rectools==0.3.0
 numpy==1.23.5
 more-itertools==9.0.0
 scipy==1.9.3
+lightfm==1.16
+hyperopt==0.2.7
